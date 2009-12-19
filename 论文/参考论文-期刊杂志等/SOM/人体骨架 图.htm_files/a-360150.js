@@ -1,0 +1,17 @@
+cpro_client='jikin_cpr';
+cpro_at='text_image'; 
+cpro_161=1; 
+cpro_flush=4; 
+cpro_w=360; 
+cpro_h=150; 
+cpro_template='text_default_360_150'; 
+cpro_cbd='#FFFFFF'; 
+cpro_cbg='#FFFFFF'; 
+cpro_ctitle='#0000ff'; 
+cpro_cdesc='#444444'; 
+cpro_curl='#008000'; 
+cpro_cflush='#e10900'; 
+cpro_uap=1;
+cpro_cad=1;
+cpro_channel=1;
+document.write('<scr'+'ipt type="text/javascript" src="http://cpro.baidu.com/cpro/ui/cp.js"></scr'+'ipt>');
